@@ -1,7 +1,6 @@
 *.py[cod]
 __pycache__
 cache
-output
 .doit.db
 .doit.db*
 .venv
