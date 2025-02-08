@@ -7,15 +7,31 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://example.com/</loc>
-  <lastmod>2025-02-08T00:40:00Z</lastmod>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/2012/</loc>
   <lastmod>2025-02-08T00:40:00Z</lastmod>
  </url>
  <url>
+  <loc>https://example.com/2025/</loc>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://example.com/archive.html</loc>
-  <lastmod>2025-02-08T00:40:00Z</lastmod>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/authors/</loc>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/authors/nikola-tesla/</loc>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/authors/roberto-alsina/</loc>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/categories/</loc>
@@ -59,7 +75,7 @@
  </url>
  <url>
   <loc>https://example.com/listings/hello.py.html</loc>
-  <lastmod>2025-02-08T00:40:00Z</lastmod>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/pages/about-nikola/</loc>
@@ -116,6 +132,10 @@
  <url>
   <loc>https://example.com/pages/theming/</loc>
   <lastmod>2025-02-08T00:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://example.com/posts/hello-world/</loc>
+  <lastmod>2025-02-08T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>https://example.com/posts/welcome-to-nikola/</loc>
